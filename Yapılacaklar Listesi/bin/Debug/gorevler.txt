@@ -1,0 +1,6 @@
+Deneme Görev 6,9.06.2024 11:18:24,False,Seçilmedi
+Deneme Görev 5,9.06.2024 11:18:24,False,Seçilmedi
+Deneme Görev 4,9.06.2024 11:18:24,False,Seçilmedi
+Deneme Görev 3,9.06.2024 11:18:24,False,Seçilmedi
+Deneme görev 2,9.06.2024 11:18:24,False,Ev
+Deneme Görev 1 ,18.06.2024 11:18:24,False,Tatil
